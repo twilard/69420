@@ -1,1 +1,2 @@
-"BarKBjyKHoFVRfVoyWCHbfvRGWcVEq"
+local key = "BarKBjyKHoFVRfVoyWCHbfvRGWcVEq"
+return key
