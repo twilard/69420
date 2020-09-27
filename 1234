@@ -1,2 +1,2 @@
-local key = "KHlOCcqcTJZyhGItbCDVgZJHkEOXYW"
-return key
+local randomGenerated = "KHlOCcqcTJZyhGItbCDVgZJHkEOXYW"
+return randomGenerated
